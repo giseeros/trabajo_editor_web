@@ -433,5 +433,14 @@ justify-content:center;
 .title{
 font-size:38px;
 }
+.card .btn{
+margin-top:20px;
+}
 
+.card .btn i{
+margin-right:10px;
+font-size:18px;
+background:none;
+-webkit-text-fill-color:white;
+}
 }
