@@ -1,4 +1,3 @@
-
 // ===== REVEAL ANIMATION =====
 
 const reveals = document.querySelectorAll('.reveal');
